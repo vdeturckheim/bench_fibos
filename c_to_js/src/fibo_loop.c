@@ -1,8 +1,3 @@
-//
-// Created by Vladimir de Turckheim on 17/09/2017.
-//
-
-#include "fibo_loop.h"
 #include <emscripten.h>
 // from http://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
 EMSCRIPTEN_KEEPALIVE
